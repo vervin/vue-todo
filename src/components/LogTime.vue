@@ -53,8 +53,8 @@
         methods:{
           save() {
             const plan = {
-              name : '二哲',
-              image : 'https://sfault-avatar.b0.upaiyun.com/888/223/888223038-5646dbc28d530_huge256',
+              name : 'vervin',
+              image : 'https://avatars0.githubusercontent.com/u/18185385?v=3&s=460',
               date : this.date,
               totalTime : this.totalTime,
               comment : this.comment
